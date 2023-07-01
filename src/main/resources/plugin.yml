@@ -1,0 +1,11 @@
+name: iosteinCase
+version: 1.0
+api-version: 1.19
+main: de.eincode.iostein.cases.CaseSystem
+author: einCode_
+commands:
+  coins:
+    aliases:
+      - credits
+  case:
+  test:

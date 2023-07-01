@@ -1,0 +1,7 @@
+# Please insert your MySQL data here!
+MySQL:
+  host: 'localhost'
+  username: 'postgres'
+  port: '5432'
+  database: 'iosteinCaseSystem'
+  password: 'postgres'
